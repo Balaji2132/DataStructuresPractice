@@ -46,4 +46,4 @@ if __name__ == "__main__":
     ll.remove_duplicates()
     print("Linked List after removing duplicates:")
     ll.display()
-#TODO: Sort in the code
+#TODO: Sort in the code and do not ask for the sorted input
